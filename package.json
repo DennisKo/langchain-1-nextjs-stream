@@ -9,11 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@microsoft/fetch-event-source": "^2.0.1",
+    "@tailwindcss/forms": "^0.5.3",
     "@types/node": "18.16.3",
     "@types/react": "18.2.5",
     "@types/react-dom": "18.2.3",
     "autoprefixer": "10.4.14",
+    "langchain": "^0.0.69",
     "next": "13.4.0",
+    "openai": "^3.2.1",
     "postcss": "8.4.23",
     "react": "18.2.0",
     "react-dom": "18.2.0",
