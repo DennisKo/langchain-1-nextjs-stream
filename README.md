@@ -2,6 +2,14 @@
 
 Example code for an app that makes use of [Langchains](https://js.langchain.com/docs/) [OpenAIChat](https://js.langchain.com/docs/api/llms_openai/classes/OpenAIChat). The stream is managed by a [CallbackManager](https://js.langchain.com/docs/api/callbacks/classes/CallbackManager). And the prompt is a basic [HumanChatMessage](https://js.langchain.com/docs/api/schema/classes/HumanChatMessage).
 
+This is part 1 of a Langchain+Nextjs series:
+
+Part 2: https://github.com/DennisKo/langchain-2-emojify
+
+Part 3: https://github.com/DennisKo/langchain-3-chat-ui
+
+Disclaimer: The code in this series is not meant for production or be taken as an example for best practices. It is meant to be be a starting point and conceptual example of how to implement those kind of technologies. There are bugs and no tests! You have been warned! ;)
+
 ## Getting Started
 
 First, run the development server:
